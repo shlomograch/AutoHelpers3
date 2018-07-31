@@ -1,0 +1,13 @@
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\AutomationHelpers3.dll
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\AutomationHelpers3.pdb
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\RestSharp.dll
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\WebDriver.dll
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\WebDriver.Support.dll
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\WebDriver.xml
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\WebDriver.Support.xml
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\obj\Debug\AutomationHelpers3.csproj.CoreCompileInputs.cache
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\obj\Debug\AutomationHelpers3.dll
+c:\users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\obj\Debug\AutomationHelpers3.pdb
+C:\Users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sgrach\Source\Repos\AutomationHelpers3\AutomationHelpers3\obj\Debug\AutomationHelpers3.csprojResolveAssemblyReference.cache
